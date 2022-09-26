@@ -13,7 +13,7 @@ OBS 1: _Não é necessário fazer com a API do GitHub, existe várias APIs gratu
 OBS 2: _Você pode desenvolver mais funcionalidades para sua aplicação, não precisa se prender a apenas essas 3 funcionalidades descritas._
 
 ## Instruções para realizar o desafio
-Você pode fazer esse desafio na linguagem que desejar, mas gostamos <b>BASTANTE</b> do combo ReactJS 😍  (se utilizar typescript junto então ❤️ ).
+Você pode fazer esse desafio na linguagem que desejar.
 
 Será considerado um diferencial se, junto ao Pull Request, ser enviado um mockup feito no [Figma](https://figma.com/)  da aplicação que foi desenvolvida.
 
