@@ -22,9 +22,6 @@ Faça um fork desse repositório e ao final do desafio crie um pull request com 
 ### Ferramentas que podem auxiliar
 - Pesquisa de repositórios: https://api.github.com/search/repositories?q=node 
 - API do Github: https://docs.github.com/pt/rest/reference/repos
-- ReactJS: https://pt-br.reactjs.org/docs/getting-started.html
-- Axios: https://github.com/axios/axios
-- React Router DOM: https://reactrouter.com/web/guides/quick-start
 
 ### O que será avaliado?
 - Clareza e organização do código;
